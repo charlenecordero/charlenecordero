@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Charlene Cordero
 - 👀 I’m interested in gaming, traveling, roadtrips, food.
-- 🌱 I’m currently learning the AI Engineer Bootcamp from Udemy by 365Careers.
+- 🌱 I’m currently learning the AI Engineering
 - 💞️ I’m looking to collaborate on Data & AI projects
 - 📫 How to reach me cascordero@outlook.com...
 - STILL IN PROGRESS...

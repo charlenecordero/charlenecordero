@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Charlene Cordero
-- 👀 I’m interested in gaming, traveling, roadtrips, food.
-- 🌱 I’m currently learning AI Engineering
+- 👀 I’m interested in AI, Ecommerce, Finance, Exploring, Health & Wellness.
+- 🌱 I’m currently learning AI & Automation Engineering
 - 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me cascordero@outlook.com...
+- 📫 How to reach me: hello@charlenecordero.com
 - STILL IN PROGRESS...
 
 <!---

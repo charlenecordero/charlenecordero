@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Charlene Cordero
+- 👋 Hi, I’m Charlene Anne
 - 👀 I’m interested in AI, Ecommerce, Finance, Exploring, Health & Wellness.
 - 🌱 I’m currently learning AI & Automation Engineering
 - 💞️ I’m looking to collaborate on AI projects
